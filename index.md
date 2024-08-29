@@ -1,3 +1,12 @@
+#_Ria Nimbkar's First CS193 Homework_
+
+- **Favorite Parts of CS 193:**
+- interactive projects that allow you to learn more about Java
+- teachers are currents students who have recent experiences of completing the course so they can give more insightful advice
+- utilizes more than one aspect of programming to give a rounded education
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
