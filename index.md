@@ -20,12 +20,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-#_Ria Nimbkar's First CS193 Homework_
+# Header
+## Header
+### Header
 
-- **Favorite Parts of CS 193:**
-- interactive projects that allow you to learn more about Java
-- teachers are currents students who have recent experiences of completing the course so they can give more insightful advice
-- utilizes more than one aspect of programming to give a rounded education
+-Bulleted
+-List
 
 1. Numbered
 2. List
